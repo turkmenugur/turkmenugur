@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.png)
 <h1 align="center">Hi 👋, I'm Uğur Türkmen</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turkmenugur&label=Profile%20views&color=0e75b6&style=flat" alt="turkmenugur" /> </p>
