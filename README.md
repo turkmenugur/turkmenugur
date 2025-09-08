@@ -1,18 +1,13 @@
 <br clear="both">
 
-<p align="left">🌟 Hey there, I’m Uğur TÜRKMEN🌟<br><br>I’m a Senior Computer Engineering student who’s passionate about coding, creating, and diving into tech! 🚀 I work on projects in mobile apps, web dev, AI, and IT—if it’s innovative and involves code, I’m all over it!<br><br>💻 My dev adventure started with mobile development over 7+ years ago, and I’ve been hooked ever since! From building smooth apps to playing with AI wizardry, I’m all about creating things that are smart and awesome.<br><br>✨ My style? Curious, creative, and always hunting for the next big spark. Let’s connect, code together, or just nerd out over tech!</p>
+<p align="left">🌟 Hello there, I'm Uğur TÜRKMEN 🌟<br><br>I'm a recent Computer Engineering graduate with a strong passion for coding and IT. 🚀 I specialize in mobile application development using **Kotlin** & **Java**, and web development with **C# & ASP.NET** as well as **Java & Spring**. My interest in **Assembly** keeps me curious about low-level programming.<br><br>💻 My journey started with mobile development, and my passion for creating robust applications has only grown. I'm currently expanding my skill set in **network and systems engineering**.<br><br>✨ I'm a creative and inquisitive developer, always eager to learn and take on new challenges. Let's connect, collaborate, and talk tech!<br><br>📫 Feel free to reach out to me: turkmen_ugur@outlook.com</p>
 
 ###
 ###
-
-<p align="left">How to reach me?</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/uğur-türkmen-0b499b147" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-  <a href="https://trkmn.ugur.12@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
 </div>
 
