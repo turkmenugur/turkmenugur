@@ -25,7 +25,6 @@ Mobile & AI engineer. I build iOS and Android apps and put machine learning on t
 - [createml-lab](https://github.com/turkmenugur/createml-lab): on-device image classifiers with Create ML, Core ML and Vision
 - [baby-cry-classifier](https://github.com/turkmenugur/baby-cry-classifier): audio classification with a split-inference CNN and a fine-tuned Audio Spectrogram Transformer
 - [compose-expressive-lab](https://github.com/turkmenugur/compose-expressive-lab): Material 3 Expressive motion experiments in Jetpack Compose
-- [skills](https://github.com/turkmenugur/skills): agent skills for building mobile apps with AI coding agents, from idea to finished screen
 
 ## Elsewhere
 
