@@ -6,7 +6,7 @@ Mobile & AI engineer. I build iOS and Android apps and put machine learning on t
 
 - **On-device ML**: Core ML and Create ML models, MLX on Apple Silicon, split inference between phone and cloud
 - **LLMs and RAG**: LangGraph agents, retrieval grading, function calling with Gemini and OpenAI
-- **Mobile**: SwiftUI, Jetpack Compose, Material 3 Expressive, Supabase backends
+- **Mobile**: SwiftUI, Jetpack Compose, Material 3 Expressive
 
 ## Shipped apps
 
